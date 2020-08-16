@@ -43,32 +43,32 @@ Basic認証
 
 # アプリ説明
 ## サインアップ / ログイン
-![signup](https://user-images.githubusercontent.com/61781906/90244024-ed752b00-de6a-11ea-8575-43ace1aeb9a2.gif)
+![signup](https://user-images.githubusercontent.com/61781906/90244024-ed752b00-de6a-11ea-8575-43ace1aeb9a2.gif)  
 新規登録はウィザード形式で、ユーザー情報、住所の順に登録いたします。  
 ログインはemailとpasswordの２つの情報が必要になります。  
   
-![signin](https://user-images.githubusercontent.com/61781906/90244221-49d84a80-de6b-11ea-9df6-92be3164cad5.gif)
+![signin](https://user-images.githubusercontent.com/61781906/90244221-49d84a80-de6b-11ea-9df6-92be3164cad5.gif)  
 ログイン、新規サインアップでSNS認証機能がありますが、本番環境は対応しておりません。ご了承ください。  
 
 ## 商品の出品
-![display](https://user-images.githubusercontent.com/61781906/90245575-e56aba80-de6d-11ea-8afe-563ebe09199b.gif)
+![display](https://user-images.githubusercontent.com/61781906/90245575-e56aba80-de6d-11ea-8afe-563ebe09199b.gif)  
 商品の出品はマイページのサイドバー「出品する」をクリックすることで商品を出品することができます  
 出品情報は必須を全て入力しなければ進めないようになっています。  
 出品後は、トップページに表示されております。
 
 ## 商品詳細ページ1 商品情報の編集と削除
-![product_show1](https://user-images.githubusercontent.com/61781906/90244990-c61f5d80-de6c-11ea-9b23-30515787c84f.png)
+![product_show1](https://user-images.githubusercontent.com/61781906/90244990-c61f5d80-de6c-11ea-9b23-30515787c84f.png)  
 商品詳細ページでは、出品者は、出品商品の情報編集及び、商品の削除を実行できます。
 
 ## 商品詳細ページ2 商品の購入
-![product_show2](https://user-images.githubusercontent.com/61781906/90245324-6b3a3600-de6d-11ea-8d35-a31030cf701b.gif)
+![product_show2](https://user-images.githubusercontent.com/61781906/90245324-6b3a3600-de6d-11ea-8d35-a31030cf701b.gif)  
 出品者以外は、購入するボタンが表示されます。カードが登録されていれば、購入を実行することができます。  
 カードが登録されていない場合、登録画面へと遷移いたします。  
 カードの登録はマイページのサイドバーで実行することができますが、デフォルトで登録されているカードをお使いください。  
 商品購入後はSOLDのタグがつき、詳細ページで商品を購入することができなくなります。  
 
 ## ログアウト実行のお願い
-![logout](https://user-images.githubusercontent.com/61781906/90245473-b6544900-de6d-11ea-837e-0e875a429554.gif)
+![logout](https://user-images.githubusercontent.com/61781906/90245473-b6544900-de6d-11ea-837e-0e875a429554.gif)  
 最後に、必ずログアウトいただきますようお願い申し上げます。ログアウトはマイページのサイドバー下部にございます。
   
 
