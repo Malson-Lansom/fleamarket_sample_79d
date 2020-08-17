@@ -8,7 +8,7 @@ class Product < ApplicationRecord
   :deliver, :prefecture,
   :shipping_dates, presence: true
 
-  belongs_to :user
+  belongs_to :user 
   belongs_to :category
   # ↓のinverse_ofの表現は削除、Rails4.1からはデフォルトで設定されているため 
   # productレコード削除時に、一緒に削除したいテーブルに対して、dependent: :destroyが必要
